@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<College>
+    <Name>Itahari International College</Name>
+    <Address>Sundar, Dulari Sadak, Koshi Haraicha 56705</Address>
+    <Contact>
+        <Telephone>023576734</Telephone>
+        <Phone id="1">9862726553</Phone>
+        <Phone id="2">9878267536</Phone>
+        <Social_Platforms>
+            <Facebook>Itahari International College</Facebook>
+            <Twitter>Itahari International College</Twitter>
+            <Instagram>Itahari International College</Instagram>
+            <youtube>IIC_Legends</youtube>
+        </Social_Platforms>
+    </Contact>
+    <webaddress>iic.com</webaddress>
+    <Logo></Logo>
+    <Students>
+        <BIT>
+            <Year1>
+                <Student>
+                    <Pupil id="pup1year1BIT">
+                        <First_name></First_name>
+                        <Last_name></Last_name>
+                        <Address></Address>
+                        <Phone id="ph1pup1year1IT"></Phone>
+                        <plus12Result></plus12Result>
+                        <Gender></Gender>
+                    </Pupil>
+                </Student>
+            </Year1>
+            <Year2>
+                <Student>
+                    <Pupil id="pup1year2BIT">
+                        <First_name></First_name>
+                        <Last_name></Last_name>
+                        <Address></Address>
+                        <Phone id="ph1pup1year2IT"></Phone>
+                        <plus12Result></plus12Result>
+                        <Gender></Gender>
+                    </Pupil>
+                </Student>
+            </Year2>
+            <Year3>
+                <Student>
+                    <Pupil id="pup1year3BIT">
+                        <First_name></First_name>
+                        <Last_name></Last_name>
+                        <Address></Address>
+                        <Phone id="ph1pup1year2IT"></Phone>
+                        <plus12Result></plus12Result>
+                        <Gender></Gender>
+                    </Pupil>
+                </Student>
+            </Year3>
+        </BIT>
+        <BBA>
+            <Year1>
+                <Student>
+                    <Pupil id="pup1year1BBA">
+                        <First_name></First_name>
+                        <Last_name></Last_name>
+                        <Address></Address>
+                        <Phone id="ph1pup1year1BA"></Phone>
+                        <plus12Result></plus12Result>
+                        <Gender></Gender>
+                    </Pupil>
+                </Student>
+            </Year1>
+            <Year2>
+                <Student>
+                    <Pupil id="pup1year2BBA">
+                        <First_name></First_name>
+                        <Last_name></Last_name>
+                        <Address></Address>
+                        <Phone id="ph1pup1year2BA"></Phone>
+                        <plus12Result></plus12Result>
+                        <Gender></Gender>
+                    </Pupil>
+                </Student>
+            </Year2>
+            <Year3>
+                <Student>
+                    <Pupil id="pup1year3BBA">
+                        <First_name></First_name>
+                        <Last_name></Last_name>
+                        <Address></Address>
+                        <Phone id="ph1pup1year2BA"></Phone>
+                        <plus12Result></plus12Result>
+                        <Gender></Gender>
+                    </Pupil>
+                </Student>
+            </Year3>
+        </BBA>
+    </Students>
+</College>
